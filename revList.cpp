@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  short int size = 6;
+  short int size = 5;
   short int start = 0, end = size - 1;
   short int arr[size];
 
